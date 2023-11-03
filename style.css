@@ -17,15 +17,16 @@ body {
     height: 40px;
     font: 400 12px/15px Google Sans,-apple-system,BlinkMacSystemFont,sans-serif;
 }
-.html5 {
-    height: 30px;
-    width: 30px;
-    margin: 5px;
-   
+.fa-lg{
+    padding-top: 12px;
+    font-size: 25px;
+}
+.html5{
+    padding-top: 5px;
+    font-size: 25px;
 }
 .gh {
         height: 400px;
-        vertical-align: top;
         width: 400px;
         display: block;
         margin: 0px auto;
@@ -50,7 +51,7 @@ body {
 }
 .reacciones {
     height: 33px;
-    padding-bottom: 30px;
+    padding-bottom: 8px;
 }
 .nombres {
     margin: 5px ;
